@@ -1,0 +1,36 @@
+.page-header{
+    background-color: #1f2939;
+    padding: 30px;
+}
+
+.head-containter{
+    display: flex;
+    align-items: center;
+}
+
+.upper-header{
+    display: flex;
+    justify-content: space-around;
+}
+
+#nav-links{
+    display: flex;
+    align-items: center;
+}
+
+.img-placeholder{
+    height: 200px;
+    width: 400px;
+    background-color: grey;
+}
+
+h1, p{
+    color: white;
+}
+
+ul{
+    color: white;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}

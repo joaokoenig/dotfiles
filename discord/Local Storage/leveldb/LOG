@@ -1,0 +1,14 @@
+2022/06/28-16:30:22.719 3d0 Reusing MANIFEST /home/joaodev/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/06/28-16:30:22.720 3d0 Recovering log #40
+2022/06/28-16:30:22.731 3d0 Level-0 table #43: started
+2022/06/28-16:30:22.797 3d0 Level-0 table #43: 468822 bytes OK
+2022/06/28-16:30:22.820 3d0 Delete type=0 #40
+2022/06/28-16:30:22.820 53c Compacting 4@0 + 1@1 files
+2022/06/28-16:30:22.840 53c Generated table #45@0: 60 keys, 475664 bytes
+2022/06/28-16:30:22.840 53c Compacted 4@0 + 1@1 files => 475664 bytes
+2022/06/28-16:30:22.843 53c compacted to: files[ 0 1 0 0 0 0 0 ]
+2022/06/28-16:30:22.844 53c Delete type=2 #43
+2022/06/28-16:30:22.844 53c Delete type=2 #41
+2022/06/28-16:30:22.844 53c Delete type=2 #37
+2022/06/28-16:30:22.844 53c Delete type=2 #39
+2022/06/28-16:30:22.844 53c Delete type=2 #35

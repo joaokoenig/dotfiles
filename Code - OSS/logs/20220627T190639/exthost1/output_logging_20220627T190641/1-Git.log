@@ -1,0 +1,13 @@
+[2022-06-27T22:06:41.673Z] Log level: Info
+[2022-06-27T22:06:41.674Z] [info] Validating found git in: git
+[2022-06-27T22:06:41.683Z] [info] Using git 2.36.1 from git
+[2022-06-27T22:06:41.696Z] > git rev-parse --show-toplevel [3ms]
+[2022-06-27T22:06:41.708Z] > git rev-parse --git-dir --git-common-dir [4ms]
+[2022-06-27T22:06:41.714Z] [info] Open repository: /home/joaodev/myworkout
+[2022-06-27T22:06:41.727Z] > git status -z -uall [6ms]
+[2022-06-27T22:06:41.733Z] > git symbolic-ref --short HEAD [1ms]
+[2022-06-27T22:06:41.739Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/dev refs/remotes/dev [1ms]
+[2022-06-27T22:06:41.750Z] > git remote --verbose [2ms]
+[2022-06-27T22:06:41.751Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+[2022-06-27T22:06:41.758Z] > git config --get commit.template [1ms]
+[2022-06-27T22:06:42.356Z] > git check-ignore -v -z --stdin [34ms]

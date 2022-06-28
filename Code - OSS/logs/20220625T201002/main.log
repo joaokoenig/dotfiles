@@ -1,0 +1,4 @@
+[2022-06-25 20:10:02.367] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-06-25 20:10:03.985] [main] [info] Starting extension host with pid 117267 (fork() took 10 ms).
+[2022-06-26 02:46:33.002] [main] [info] Extension host with pid 117267 exited with code: null, signal: SIGTERM.
+[2022-06-26 02:46:33.052] [main] [warning] Sending IPC message to channel 'vscode:electron-main->shared-process=exit' for shared process window that is destroyed

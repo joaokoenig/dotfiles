@@ -1,0 +1,22 @@
+.page-header{
+    background-color: #293462;
+    padding: 30px;
+    display: flex;
+    align-items: center;
+
+}
+
+.head-containter{
+    display: flex;
+    justify-content: space-between;
+}
+
+.img-placeholder{
+    height: 200px;
+    width: 400px;
+    background-color: grey;
+}
+
+h1, p{
+    color: white;
+}

@@ -1,0 +1,19 @@
+.page-header{
+    background-color: #293462;
+    height: 300px;
+    width: auto;
+}
+
+.head-containter{
+    display: flex;
+}
+
+.img-placeholder{
+    height: 200px;
+    width: 400px;
+    background-color: grey;
+}
+
+h1, p{
+    color: white;
+}

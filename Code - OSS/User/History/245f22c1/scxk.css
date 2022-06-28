@@ -1,0 +1,12 @@
+.page-header{
+    background-color: #293462;
+    height: 300px;
+    width: auto;
+}
+
+h1, p{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

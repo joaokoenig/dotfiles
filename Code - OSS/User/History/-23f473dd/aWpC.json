@@ -1,0 +1,9 @@
+{
+    "security.workspace.trust.banner": "always",
+    "workbench.colorTheme": "Tokyo Night",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontSize": 20,
+    "editor.fontFamily": "'Fira Code',\"editor.fontFamily\": \"'Fira Code', 'Droid Sans Mo\"editor.fontFamily\": \"'Fira Code', 'Droid Sans Mono', 'monospace', monospace\"no', 'monospace', monospace\" 'Droid Sans Mono', 'monospace', monospace",
+    "editor.fontLigatures": true,
+    "explorer.confirmDelete": false
+}

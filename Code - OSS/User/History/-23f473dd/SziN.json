@@ -1,0 +1,5 @@
+{
+    "security.workspace.trust.banner": "always",
+    "workbench.colorTheme": "Tokyo Night",
+    "workbench.iconTheme": "material-icon-theme"
+}
