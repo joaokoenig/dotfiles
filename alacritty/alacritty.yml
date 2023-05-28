@@ -1,0 +1,24 @@
+window:
+  opacity: 0.9
+  padding:
+    x: 10
+    y: 10 
+
+
+import:
+  # uncomment the flavour you want below:
+#  - ~/.config/alacritty/catppuccin/catppuccin-mocha.yml
+  - ~/.config/alacritty/catppuccin/catppuccin-macchiato.yml
+#  - ~/.config/alacritty/catppuccin/catppuccin-frappe.yml
+#  - ~/.config/alacritty/catppuccin/catppuccin-latte.yml
+#
+
+font:
+  normal:
+    family: JetBrainsMono Nerd Font 
+    style: Regular
+
+cursor:
+  style:
+    shape: Block
+    blinking: On
